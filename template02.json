@@ -9,7 +9,7 @@
             "name": "[concat(copyIndex(),'appstore10554344')]",
             "type": "Microsoft.Storage/storageAccounts",
             "apiVersion": "2022-09-01",
-            "location": "North Europe",
+            "location": "East Us",
             "kind": "StorageV2",
             "sku": {
                 "name": "Standard_LRS"
